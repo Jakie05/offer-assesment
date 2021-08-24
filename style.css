@@ -21,15 +21,6 @@
   box-sizing: border-box;
 }
 
-nav a {
-  display: inline-block;
-  width: 30%;
-  text-align: center;
-  text-decoration: none;
-  color: inherit;
-  outline: none;
-}
-
 /* Section-1 Styling */
 .secOne {
   display: flex;
